@@ -4,20 +4,49 @@
 - 💬 Ask me about HTML, CSS, Javascript, React, NodeJs, VueJs, SQL, Java
 - 📫 How to reach me **bebel.candido@gmail.com**
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=isabelerau&show_icons=true" alt="isabelerau"/> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,postgres,java,docker,go" alt="tech skills" />
 </p>
 
 <p align="center">
-<a href="https://twitter.com/CandidoRau" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="isabelerau" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/isabelerau" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="isabelerau" height="20" width="20" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=isabelerau&show_icons=true&theme=tokyonight&hide_border=true" alt="isabelerau stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelerau&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+### 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/isabelerau/desafio-docker-fullcycle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabelerau&repo=desafio-docker-fullcycle" alt="desafio-docker-fullcycle" />
+  </a>
+  <a href="https://github.com/isabelerau/desafio-docker-nginx-node">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabelerau&repo=desafio-docker-nginx-node" alt="desafio-docker-nginx-node" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/isabelerau/project-aircnc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabelerau&repo=project-aircnc" alt="project-aircnc" />
+  </a>
+  <a href="https://github.com/isabelerau/react-stencil">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabelerau&repo=react-stencil" alt="react-stencil" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/isabelerau/stencil-poc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabelerau&repo=stencil-poc" alt="stencil-poc" />
+  </a>
+  <a href="https://github.com/isabelerau/vue-stencil">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabelerau&repo=vue-stencil" alt="vue-stencil" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/CandidoRau" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/isabelerau" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <!--
