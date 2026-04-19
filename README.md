@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Softplan
 - 💬 Ask me about HTML, CSS, Javascript, React, NodeJs, VueJs, SQL, Java
-- 📫 How to reach me **bebel.candido@gmail.com**
+- 📫 How to reach me **isabelerau@gmail.com**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,postgres,java,docker,go" alt="tech skills" />
